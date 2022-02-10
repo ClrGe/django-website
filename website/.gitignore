@@ -4,7 +4,6 @@
 *.pyc
 __pycache__
 db.sqlite3
-website/db.sqlite3
 media
 
 # Backup files # 
@@ -99,10 +98,8 @@ celerybeat-schedule.*
 
 # Environments 
 ../env/ 
-env/env/
+env/env
 venv/ 
-env/
-
 
 # mypy 
 .mypy_cache/ 
